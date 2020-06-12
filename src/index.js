@@ -17,7 +17,7 @@ function render() {
     </React.StrictMode>,
     document.getElementById('root')
   );
-}
+};
 
 render();
 
